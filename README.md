@@ -1,7 +1,7 @@
 # Hi there 👋
-## I'm Kevin Lopes <br>
-### I live in Brazil <br>
-### I'm confused if I want to be front-end, back-end or full-stack, still venturing between stacks<br><br>
+### I'm Kevin Lopes 
+### I live in Brazil 
+### I'm confused if I want to be front-end, back-end or full-stack, still venturing between stacks
 
 ## Connect with me: <br>
 <a href="https://www.linkedin.com/in/k%C3%A9vin-lopes-b293831a9/" target="_blank">
