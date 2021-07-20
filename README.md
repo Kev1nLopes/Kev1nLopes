@@ -16,6 +16,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="center" alt="Kevin-Linkedin" width="40px" height="30px"></img>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kev1nLopes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kev1nLopes)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **Kev1nLopes/Kev1nLopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
