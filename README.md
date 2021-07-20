@@ -1,4 +1,12 @@
 ### Hi there 👋
+##I'm Kevin Lopes;
+#I live in Brazil;
+#I'm confused if I want to be front-end, back-end or full-stack, still venturing between stacks
+
+###Connect with me:
+<a href="https://www.linkedin.com/in/k%C3%A9vin-lopes-b293831a9/" target="_blank">
+<img src="https://www.linkedin.com/in/k%C3%A9vin-lopes-b293831a9/" align="center" alt="Kevin-Linkedin" width="40px" height="30px"/>
+</a>
 
 <!--
 **Kev1nLopes/Kev1nLopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
