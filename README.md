@@ -7,11 +7,6 @@
 <a href="https://www.linkedin.com/in/k%C3%A9vin-lopes-b293831a9/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" alt="Kevin-Linkedin" width="40px" height="30px"/>
 </a>
-<a href="https://www.instagram.com/hellpin_/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" align="center" alt="Kevin-Linkedin" width="40px" height="30px"/>
-</a>
-
-
 
 ## My Skills:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" align="center" alt="Kevin-Linkedin" width="40px" height="30px"></img>
