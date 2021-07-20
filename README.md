@@ -5,7 +5,7 @@
 
 ###Connect with me:
 <a href="https://www.linkedin.com/in/k%C3%A9vin-lopes-b293831a9/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-plain.svg" align="center" alt="Kevin-Linkedin" width="40px" height="30px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" align="center" alt="Kevin-Linkedin" width="40px" height="30px"/>
 </a>
 
 <!--
