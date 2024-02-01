@@ -1,10 +1,10 @@
-# Opa, tranquilo ? 👋
-### Eu sou o Kevin Lopes, prazer
+## Opa, tranquilo ? 👋
+# Eu sou o Kevin Lopes, prazer
 ### Atualmente moro no Brasil, Santa Maria - Rio Grande do Sul(Gaúcho raiz)
 ### Atuo como desenvolvedor full-stack e adoro aprender coisas novas, ja trabalhei com um pouco de tudo
-## PHP, NODE, C# no back e todos principais frameworks front-end da atualidade (Vue, React, Angular)
-## Atualmente estou trabalhando na AVMB Soluções em TI como dev full-stack Vue & Nodejs 
-# e tambem estou criando meus projetos pessoais, esse ano de 2024 eu vou tirar todos do papel é uma promessa!
+### PHP, NODE, C# no back e todos principais frameworks front-end da atualidade (Vue, React, Angular)
+### Atualmente estou trabalhando na AVMB Soluções em TI como dev full-stack Vue & Nodejs 
+### e tambem estou criando meus projetos pessoais, esse ano de 2024 eu vou tirar todos do papel é uma promessa!
 
 
 ## Connect with me: <br>
