@@ -1,6 +1,6 @@
 ## Opa, tranquilo ? 👋
 # Eu sou o Kevin Lopes, prazer
-### Atualmente moro no Brasil, Santa Maria - Rio Grande do Sul(Gaúcho raiz)
+### Atualmente moro no Brasil, Santa Maria - Rio Grande do Sul
 ### Atuo como desenvolvedor full-stack e adoro aprender coisas novas, ja trabalhei com um pouco de tudo
 ### PHP, NODE, C# no back e todos principais frameworks front-end da atualidade (Vue, React, Angular)
 ### Atualmente estou trabalhando na AVMB Soluções em TI como dev full-stack Vue & Nodejs 
